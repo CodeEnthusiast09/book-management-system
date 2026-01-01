@@ -9,7 +9,10 @@ async function bootstrap() {
 
   // Enable CORS for frontend
   app.enableCors({
-    origin: 'http://localhost:3000', // React app URL
+    origin: [
+      'http://localhost:3000',
+      'https://book-management-system-prod.vercel.app/',
+    ], // React app URL
     credentials: true,
   });
 
