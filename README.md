@@ -2,6 +2,11 @@
 
 A full-stack web application for managing a collection of books with authentication and authorization.
 
+
+## 🌐 Live Demo
+**backend**: https://book-management-system-production-aafb.up.railway.app
+**frontend**: https://book-management-system-prod.vercel.app
+
 ## 🚀 Tech Stack
 
 ### Backend
